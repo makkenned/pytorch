@@ -1,1 +1,1 @@
-docker build . 
+nvidia-docker build . 
